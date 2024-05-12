@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aptos-transfer",
+  "private_key_id": "0ba8b9517ba6655d89d5cf6c11347da6947b84c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqhn3zO+9GtZXe\nYJ2ZuqeGoXAvL6DnZw8N5U5ny55H/LF+dHS4DLBtbp41kopAWqMfRShTPQKLLler\nw8M8MT4tIgBpQVR6poE0NnK0wi6GK+bmQ8dErp57x4xYKHCq1cXVpHx/+5ZQI2mX\nUOzk08LIGDLCZEODGhHwLxfUl8+0N83aZXt4MoTCPR0oGvMauUKz8nzu3WvMkjan\ntVHfAxSKOU/F5VpeOjT5/V9NiM/fQSS1xIQtfafTYiBU9TsB5vQuh7zqiVmu2qwd\nNNCayyvthCOMLT/Ahg+mUmenPJ7o1wiVjyjdSKjozxeXT/0KfjEJj2WpynAElgTF\nVjF7GUPlAgMBAAECggEAEE5BR5Djlbn8qqxHuvtuKXbRE1yqi3X/VS99X89zQyRB\nP1DuGECeXi3FqGRqyTHhhzabCdqQ87NquVyZaUK21KSmWr+Jzxs8yjv/8T41f1Q+\nBVFV10DF8XATVhqygKNlrMLIZN8vGwVH2NWUJrgDrWki8WjvoQmieCUIp6YckPmH\np20Pp/gaRnQ3VKrsKC19g1zmUPAozGGGEYWxDjB1oi1Y6oyyEz5mltxIZLsnjpQ/\ndqUFcDPeodRmLbvb/5nfMK5+kThJ6XNMAlHvz9nOVtVrXpNQU6EbBQ0dE4G1bycS\nKHHrH0JURcb6wBFE0B+/cRqdd9y0tuyCbcBkfBmrwQKBgQDhpmjBIH8kLRzp972V\nc2Z47ZRonG45a9W9mvVtnpIM9B7SRsQstnsNHd25H1Au28JFlsaBZlSbFjUPmjEU\niu0tLlFwXgmWCAVPs8ElaPnndB3+sTiwpGShIyU9hh5UhEPKO0bUdQo9l5q0oaSH\n9g6HUpJH2hwXi9bcc0RjCfUK9wKBgQDBdgcdRN1Vv3RjoSFq0TJPg322ElVO17Vm\nn8TMIJH9dN138e/b9KLdyUTvj+akiaiQrYPxydSQGd2mieEqWqFe3Msi8mawoDGE\nDZf3YHwnQNEHf0jro856Pm6oQIqkxlMis+EhYIEpaA6sUAgSU6aVosBjbeBg0gY8\n0TEWs3M1AwKBgAw0rSvtLxNs4UiCnx2rbVqTN1jlRU0T2S71Z9szHaFXvycOruPg\nRw2xlOHDoNm4B20uN7SeLWtqKxqZ85ex4Bx2ie8zFv+nlWn3RjZY1FPBwzGYsoFT\nkyHoPcZzL8bQlL4msLEjV5d3UOX+bGDyXVzSiZkbYjOf29J25bcZvciHAoGAJdT+\n7ypYXjxidlk8P7dJL2N3YfOT2yczwi3cPk7gPcBsztfxIAJnFxgU8wQhBmwlGqXT\n96SQfN2SCs9LyQyQIgzrbJoams+43yoJXcbwgHycY+rwR6Rw7FbpLN3yPubJuy+S\nBwToPUCsHeZIrczN9tUs6kTCbCymK559CwNstCECgYEAlQeX2Y2Di/HQpH08OYEx\n4/1TVh+COJwTSAM4o2eOEiEvjkr8lhVcSpIhoK06yzjE987Dqn5Fvpq+KnNScYan\nisjpHMSJ/LchbaoNEcZRxA2h0xd+JBAMoU45gIFsTSGMWILjPDhfK7K/XuJ2haZ1\n5hlgbyNZz2IroBBErRROzLA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@aptos-transfer.iam.gserviceaccount.com",
+  "client_id": "106135291740221515280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40aptos-transfer.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
