@@ -85,7 +85,9 @@ function App() {
   return (
     <div className="App">
       <h1>앱토스 트랜스퍼 페이지</h1>
-      <strong>※ 네트워크는 지갑의 네트워크를 따라갑니다. 메인넷으로 보내기 전에 테스트넷으로 테스트해보시길 추천드립니다.<br />추가로 시트에서 version이 있는 어드레스는 이미 보낸 것으로 간주하여 보내는 과정을 생략하기 때문에 테스트 후에는 version 열의 내용을 빈 값으로 비워주세요.</strong>
+      <a href="https://docs.google.com/spreadsheets/d/1pihEm3KoWyoBHQTr9neVAxqsOkNB3Hw8Rj1pJjqJcqk/edit?usp=sharing" target="_blank" rel="noreferrer">시트 링크</a>
+      <br />
+      <strong>※ 네트워크는 지갑의 네트워크를 따라갑니다. 실제로 보내기 전에 충분히 테스트해보시길 추천드립니다.<br/>(해당 페이지는 테스트넷으로만 테스트해보았기 때문에, 메인넷도 테스트가 필요합니다.)<br />추가로 시트에서 version이 있는 어드레스는 이미 보낸 것으로 간주하여 보내는 과정을 생략하기 때문에 테스트 후에는 version 열의 내용을 빈 값으로 비워주세요.</strong>
       <div>
         <p>발신자 주소:{sender}</p>
         <span>보낼 양: </span>
